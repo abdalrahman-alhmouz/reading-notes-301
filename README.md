@@ -1,2 +1,28 @@
-# reading-notes-301
-The reading journal for 301 course
+# Code 301 Reading Notes
+
+* The reading journal for 301 course
+
+* This page will act as a link for all the other reading tasks and will contain the links for all the assignments.
+
+* This is the ***Table of Content*** for the *reading material*:
+
+
+ 
+
+| Read Part                    |       Topic name and link
+-------------------------------|-----------------------------------
+| Read-1                       |[SMACSS and Responsive Web Design](https://badwan95.github.io/reading-notes-301/class-01)
+| Read-2                       |
+| Read-3                       |
+| Read-4                       |
+| Read-5                       |
+| Read-6                       |
+| Read-7                       |
+| Read-8                       |
+| Read-9                       |
+| Read-10                      |
+| Read-11                      |
+| Read-12                      |
+| Read-13                      |
+| Read-14                      |
+| Read-15                      |
