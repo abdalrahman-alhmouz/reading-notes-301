@@ -12,7 +12,7 @@
 | Read Part                    |       Topic name and link
 -------------------------------|-----------------------------------
 | Read-1                       |[SMACSS and Responsive Web Design](https://badwan95.github.io/reading-notes-301/class-01)
-| Read-2                       |[jQuery, Events, and The DOM](https://badwan95.github.io/reading-notes-301/class-01)
+| Read-2                       |[jQuery, Events, and The DOM](https://badwan95.github.io/reading-notes-301/class-02)
 | Read-3                       |
 | Read-4                       |
 | Read-5                       |
