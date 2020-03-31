@@ -22,7 +22,4 @@
 
 * justify content gives the spacing depending on whats needed, but some of its values are not supported by all browsers.
 
-
-
-
-
+* use align-items to align vertically
