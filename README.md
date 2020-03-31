@@ -14,7 +14,7 @@
 | Read-1                       |[SMACSS and Responsive Web Design](https://badwan95.github.io/reading-notes-301/class-01)
 | Read-2                       |[jQuery, Events, and The DOM](https://badwan95.github.io/reading-notes-301/class-02)
 | Read-3                       |[Flexbox and Templating](https://badwan95.github.io/reading-notes-301/class-03)
-| Read-4                       |
+| Read-4                       |[Responsive Web Design and Regular Expressions](https://badwan95.github.io/reading-notes-301/class-04)
 | Read-5                       |
 | Read-6                       |
 | Read-7                       |
