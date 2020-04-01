@@ -15,7 +15,7 @@
 | Read-2                       |[jQuery, Events, and The DOM](https://badwan95.github.io/reading-notes-301/class-02)
 | Read-3                       |[Flexbox and Templating](https://badwan95.github.io/reading-notes-301/class-03)
 | Read-4                       |[Responsive Web Design and Regular Expressions](https://badwan95.github.io/reading-notes-301/class-04)
-| Read-5                       |
+| Read-5                       |[Heroku Deployment](https://badwan95.github.io/reading-notes-301/class-05)
 | Read-6                       |
 | Read-7                       |
 | Read-8                       |
