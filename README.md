@@ -18,7 +18,7 @@
 | Read-5                       |[Heroku Deployment](https://badwan95.github.io/reading-notes-301/class-05)
 | Read-6                       |[Node, Express, and APIs](https://badwan95.github.io/reading-notes-301/class-06)
 | Read-7                       |[APIs continued](https://badwan95.github.io/reading-notes-301/class-07)
-| Read-8                       |
+| Read-8                       |[SQL](https://badwan95.github.io/reading-notes-301/class-08)
 | Read-9                       |
 | Read-10                      |
 | Read-11                      |
