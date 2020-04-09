@@ -20,7 +20,7 @@
 | Read-7                       |[APIs continued](https://badwan95.github.io/reading-notes-301/class-07)
 | Read-8                       |[SQL](https://badwan95.github.io/reading-notes-301/class-08)
 | Read-9                       |[Refactoring](https://badwan95.github.io/reading-notes-301/class-09)
-| Read-10                      |
+| Read-10                      |[Refactoring](https://badwan95.github.io/reading-notes-301/class-10)
 | Read-11                      |
 | Read-12                      |
 | Read-13                      |
