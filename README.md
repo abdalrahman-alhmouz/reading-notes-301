@@ -22,7 +22,7 @@
 | Read-9                       |[Refactoring](https://badwan95.github.io/reading-notes-301/class-09)
 | Read-10                      |[Refactoring](https://badwan95.github.io/reading-notes-301/class-10)
 | Read-11                      |[EJS](https://badwan95.github.io/reading-notes-301/class-11)
-| Read-12                      |
+| Read-12                      |[Components,EJS Partials](https://badwan95.github.io/reading-notes-301/class-12)
 | Read-13                      |
 | Read-14                      |
 | Read-15                      |
