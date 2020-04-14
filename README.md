@@ -24,5 +24,5 @@
 | Read-11                      |[EJS](https://badwan95.github.io/reading-notes-301/class-11)
 | Read-12                      |[Components,EJS Partials](https://badwan95.github.io/reading-notes-301/class-12)
 | Read-13                      |[Update/Delete](https://badwan95.github.io/reading-notes-301/class-13)
-| Read-14                      |
+| Read-14                      |[Database Normalization](https://badwan95.github.io/reading-notes-301/class-14)
 | Read-15                      |
