@@ -25,4 +25,4 @@
 | Read-12                      |[Components,EJS Partials](https://badwan95.github.io/reading-notes-301/class-12)
 | Read-13                      |[Update/Delete](https://badwan95.github.io/reading-notes-301/class-13)
 | Read-14                      |[Database Normalization](https://badwan95.github.io/reading-notes-301/class-14)
-| Read-15                      |
+| Read-15                      |[Diversity and Inclusion](https://badwan95.github.io/reading-notes-301/class-15)
